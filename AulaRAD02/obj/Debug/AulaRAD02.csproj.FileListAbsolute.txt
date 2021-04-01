@@ -1,0 +1,11 @@
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\bin\Debug\AulaRAD02.exe.config
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\bin\Debug\AulaRAD02.exe
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\bin\Debug\AulaRAD02.pdb
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.csprojAssemblyReference.cache
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.FrmCadAluno.resources
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.FrmListaCursos.resources
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.Properties.Resources.resources
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.csproj.GenerateResource.cache
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.csproj.CoreCompileInputs.cache
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.exe
+D:\Saved Games\c#Projetos\AulaRAD02\AulaRAD02\obj\Debug\AulaRAD02.pdb
